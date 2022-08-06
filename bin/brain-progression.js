@@ -9,17 +9,17 @@ console.log('What number is missing in the progression?');
 const brainProgression = () => {
   let count = 0;
   while (count < 3) {
-    const randomNumber = Math.ceil(Math.random() * 30);
-    const randomNumber2 = Math.ceil(Math.random() * 10);
-    const Array = [];
+    const firstNumber = Math.ceil(Math.random() * 30);
+    const step = Math.ceil(Math.random() * 10);
+    const array = [];
     for (let i = 1; i <= 10; i += 1) {
-      Array.push(randomNumber + (randomNumber2 * i));
+      array.push(firstNumber + (step * i));
     }
     const randomIndex = Math.ceil(Math.random() * 9);
-    const missedNumber = Array[randomIndex];
-    Array[randomIndex] = '..';
-    const ArrayToString = Array.join(' ');
-    console.log(`Question: ${ArrayToString}`);
+    const missedNumber = array[randomIndex];
+    array[randomIndex] = '..';
+    const arrayToString = array.join(' ');
+    console.log(`Question: ${arrayToString}`);
     const answer = readlineSync.question('Your answer: ');
     if (Number(answer) === missedNumber) {
       console.log('Correct!');
