@@ -28,4 +28,5 @@ const calcGame = () => {
   return cons(question, rightAnswer);
 };
 
-export default () => startGame(info, calcGame);
+export const calc = () => startGame(info, calcGame);
+export const foo = () => 0;

@@ -24,4 +24,5 @@ const progressionGame = () => {
   return cons(question, rightAnswer);
 };
 
-export default () => startGame(info, progressionGame);
+export const progression = () => startGame(info, progressionGame);
+export const foo = () => 0;

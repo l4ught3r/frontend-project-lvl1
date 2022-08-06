@@ -14,4 +14,5 @@ const evenGame = () => {
   return cons(question, rightAnswer);
 };
 
-export default () => startGame(info, evenGame);
+export const even = () => startGame(info, evenGame);
+export const foo = () => 0;

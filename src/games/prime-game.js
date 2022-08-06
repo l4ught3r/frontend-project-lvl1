@@ -21,4 +21,5 @@ const primeGame = () => {
   return cons(question, rightAnswer);
 };
 
-export default () => startGame(info, primeGame);
+export const prime = () => startGame(info, primeGame);
+export const foo = () => 0;
