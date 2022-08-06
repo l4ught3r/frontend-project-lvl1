@@ -21,7 +21,7 @@ const brainPrime = () => {
     if (answer === isNumberPrime(randomNumber)) {
       console.log("Correct!");
       count += 1;
-    } else return `'${answer}' is wrong answer ;(. Correct answer was '${isNumberPrime(randomNumber)}' \n Let's try again, ${name}`;
+    } else return `'${answer}' is wrong answer ;(. Correct answer was '${isNumberPrime(randomNumber)}' \n Let's try again, ${name}!`;
   }
   return (`Congratulations, ${name}!`);
 };

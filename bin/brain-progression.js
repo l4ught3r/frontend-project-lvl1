@@ -20,7 +20,7 @@ const brainProgression = () => {
     if (Number(answer) === missedNumber) {
       console.log("Correct!");
       count += 1;
-    } else return `'${answer}' is wrong answer ;(. Correct answer was '${missedNumber}' \n Let's try again, ${name}`;
+    } else return `'${answer}' is wrong answer ;(. Correct answer was '${missedNumber}' \n Let's try again, ${name}!`;
   }
   return (`Congratulations, ${name}!`);
 };

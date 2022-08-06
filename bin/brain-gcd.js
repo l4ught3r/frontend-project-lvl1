@@ -17,7 +17,7 @@ const brainGcd = () => {
     if (Number(answer) === gcd(firstNumber, secondNumber)) {
       console.log("Correct!");
       count += 1;
-    } else return `'${answer}' is wrong answer ;(. Correct answer was '${gcd(firstNumber, secondNumber)}' \n Let's try again, ${name}`;
+    } else return `'${answer}' is wrong answer ;(. Correct answer was '${gcd(firstNumber, secondNumber)}' \n Let's try again, ${name}!`;
   }
   return (`Congratulations, ${name}!`);
 };
