@@ -15,7 +15,8 @@ const brainProgression = () => {
     const randomIndex = Math.ceil(Math.random() * 9);
     const missedNumber = numberArray[randomIndex];
     numberArray[randomIndex] = "..";
-    console.log(`Question: ${numberArray}`);
+    const numberArrayToString = numberArray.join(" ");
+    console.log(`Question: ${numberArrayToString}`);
     const answer = readlineSync.question("Your answer: ");
     if (Number(answer) === missedNumber) {
       console.log("Correct!");
