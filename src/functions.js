@@ -6,6 +6,7 @@ export const gcd = (a, b) => {
       return i;
     }
   }
+  return 0;
 };
 
 export const foo = () => 0;
