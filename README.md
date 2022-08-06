@@ -13,8 +13,8 @@ Use these commands to launch games:
 * ```brain-prime``` - Is it a prime number or not?
 ### Asciinema rec:
 
-<a href="https://asciinema.org/a/FPLrgpFQu55V5uAd4i4Etgkcs">brain-even asciinema</a>
-<a href="https://asciinema.org/a/gwDePYuCBHyGpGyA9QAWKCZiJ">brain-calc asciinema</a>
-<a href="https://asciinema.org/a/IXxeR1ZNCxxdCVt7Zd1mGGjIL">brain-gcd asciinema</a>
-<a href="https://asciinema.org/a/KnpotcgsilTh3ODDQv0Z6tSOO">brain-progression asciinema</a>
-<a href="https://asciinema.org/a/2yUx4FeoUVYxfTFxLnbul7jbH">brain-prime asciinema</a>
+<a href="https://asciinema.org/a/FPLrgpFQu55V5uAd4i4Etgkcs"><b>brain-even</b></a>
+<a href="https://asciinema.org/a/gwDePYuCBHyGpGyA9QAWKCZiJ"><b>brain-calc</b></a>
+<a href="https://asciinema.org/a/IXxeR1ZNCxxdCVt7Zd1mGGjIL"><b>brain-gcd</b></a>
+<a href="https://asciinema.org/a/KnpotcgsilTh3ODDQv0Z6tSOO"><b>brain-progression</b></a>
+<a href="https://asciinema.org/a/2yUx4FeoUVYxfTFxLnbul7jbH"><b>brain-prime</b></a>
