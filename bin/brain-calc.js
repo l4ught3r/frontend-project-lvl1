@@ -33,7 +33,7 @@ const brainCalc = () => {
     if (Number(answer) === isCorrectAnswer()) {
       console.log("Correct!");
       count += 1;
-    } else return `'${answer}' is wrong answer ;(. Correct answer was '${correctAnswer}' \n Let's try again, ${name}`;
+    } else return `'${answer}' is wrong answer ;(. Correct answer was '${correctAnswer}' \n Let's try again, ${name}!`;
   }
   return (`Congratulations, ${name}!`);
 };
