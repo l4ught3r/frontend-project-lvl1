@@ -21,7 +21,7 @@ const mathematicalExpression = (a, b, operator) => {
 
 const calcGame = () => {
   const num1 = randomNum(1, 30);
-  const num2 = randomNum(1, 30);
+  const num2 = randomNum(1, 10);
   const randomOperator = operators[randomNum(0, operators.length - 1)];
   const question = `${num1} ${randomOperator} ${num2}`;
   const rightAnswer = String(mathematicalExpression(num1, num2, randomOperator));

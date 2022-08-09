@@ -10,7 +10,7 @@ const arraySize = 10;
 
 const progressionGame = () => {
   const num1 = randomNum(1, 50);
-  const step = randomNum(2, 10);
+  const step = randomNum(1, 10);
   const array = [];
   for (let i = 1; i <= arraySize; i += 1) {
     array.push(num1 + step * i);
