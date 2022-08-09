@@ -8,10 +8,10 @@ Brain games
 
 ### How to install
 
-1. ```git clone https://github.com/l4ught3r/frontend-project-lvl1```
-2. ```npm ci```
-3. ```npm link```
-4. ```Launch any of the games listed below```
+1. ```$ git clone https://github.com/l4ught3r/frontend-project-lvl1```
+2. ```$ npm ci```
+3. ```$ npm link```
+4. ```$ Launch any of the games listed below```
 
 ### Brain-games
 
@@ -23,8 +23,8 @@ Use these commands to launch games:
 * ```brain-prime``` - Is it a prime number or not?
 ### Asciinema rec:
 
-* ```<a href="https://asciinema.org/a/W4RtO0KHMZF42EO54hsjWUrUg"><b></b></a>```
-* ```<a href="https://asciinema.org/a/tzAwIUI7ttUXxUsjoGQwrJTKM"><b>brain-calc</b></a>```
-* ```<a href="https://asciinema.org/a/FL7S46XfgNXEzBnFx1G1265yU"><b>brain-gcd</b></a>```
-* ```<a href="https://asciinema.org/a/oCMStSSltI7J0OCNHhLjWpix0"><b>brain-progression</b></a>```
-* ```<a href="https://asciinema.org/a/HAcvjgrmTjkJdtxk5aMfcoHj6"><b>brain-prime</b></a>```
+* <a href="https://asciinema.org/a/W4RtO0KHMZF42EO54hsjWUrUg"><b><i>brain-even</i></b></a>
+* <a href="https://asciinema.org/a/tzAwIUI7ttUXxUsjoGQwrJTKM"><b><i>brain-calc</i></b></a>
+* <a href="https://asciinema.org/a/FL7S46XfgNXEzBnFx1G1265yU"><b><i>brain-gcd</i></b></a>
+* <a href="https://asciinema.org/a/oCMStSSltI7J0OCNHhLjWpix0"><b><i>brain-progression</i></b></a>
+* <a href="https://asciinema.org/a/HAcvjgrmTjkJdtxk5aMfcoHj6"><b><i>brain-prime</i></b></a>
