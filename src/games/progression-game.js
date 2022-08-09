@@ -1,8 +1,5 @@
-#!/usr/bin/env node
-
-import { cons } from '@hexlet/pairs';
 import startGame from '../index.js';
-import { randomNum } from '../functions.js';
+import randomNum from '../functions.js';
 
 const info = 'What number is missing in the progression?';
 
@@ -21,8 +18,7 @@ const progressionGame = () => {
   array[lostNum] = '..';
   const question = `${array.join(' ')}`;
 
-  return cons(question, rightAnswer);
+  return [question, rightAnswer];
 };
 
-export const progression = () => startGame(info, progressionGame);
-export const foo = () => 0;
+export default () => startGame(info, progressionGame);
