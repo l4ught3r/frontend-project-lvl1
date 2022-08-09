@@ -23,8 +23,8 @@ Use these commands to launch games:
 * ```brain-prime``` - Is it a prime number or not?
 ### Asciinema rec:
 
-* Brain even: [![asciicast](https://asciinema.org/a/W4RtO0KHMZF42EO54hsjWUrUg.svg)](https://asciinema.org/a/W4RtO0KHMZF42EO54hsjWUrUg)
-* Brain calc: [![asciicast](https://asciinema.org/a/tzAwIUI7ttUXxUsjoGQwrJTKM.svg)](https://asciinema.org/a/tzAwIUI7ttUXxUsjoGQwrJTKM)
-* <a href="https://asciinema.org/a/FL7S46XfgNXEzBnFx1G1265yU"><b><i>brain-gcd</i></b></a>
-* <a href="https://asciinema.org/a/oCMStSSltI7J0OCNHhLjWpix0"><b><i>brain-progression</i></b></a>
-* <a href="https://asciinema.org/a/HAcvjgrmTjkJdtxk5aMfcoHj6"><b><i>brain-prime</i></b></a>
+* ***Brain even*** [![asciicast](https://asciinema.org/a/W4RtO0KHMZF42EO54hsjWUrUg.svg)](https://asciinema.org/a/W4RtO0KHMZF42EO54hsjWUrUg)
+* ***Brain calc*** [![asciicast](https://asciinema.org/a/tzAwIUI7ttUXxUsjoGQwrJTKM.svg)](https://asciinema.org/a/tzAwIUI7ttUXxUsjoGQwrJTKM)
+* ***Brain gcd*** [![asciicast](https://asciinema.org/a/FL7S46XfgNXEzBnFx1G1265yU.svg)](https://asciinema.org/a/FL7S46XfgNXEzBnFx1G1265yU)
+* ***Brain progression*** [![asciicast](https://asciinema.org/a/oCMStSSltI7J0OCNHhLjWpix0.svg)](https://asciinema.org/a/oCMStSSltI7J0OCNHhLjWpix0)
+* ***Brain prime*** [![asciicast](https://asciinema.org/a/HAcvjgrmTjkJdtxk5aMfcoHj6.svg)](https://asciinema.org/a/HAcvjgrmTjkJdtxk5aMfcoHj6)
